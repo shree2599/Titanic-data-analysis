@@ -1,8 +1,7 @@
  Group Members :
-
-Dhanashree Shinde - 50 
-Shubham Shinde - 51
-Saili Totre - 56
+ Dhanashree Shinde - 50
+ Shubham Shinde - 51
+ Saili Totre - 56
 
 Project name :- Titanic Data Analysis
 
