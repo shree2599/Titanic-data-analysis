@@ -1,7 +1,7 @@
 # Group Members :
-# Dhanashree Laxman Shinde - 50 
-# Shubham Shinde - 51
-# Saili Totre - 56
+ Dhanashree Laxman Shinde - 50 
+ Shubham Shinde - 51
+ Saili Totre - 56
 
 # Project name :- Titanic Data Analysis
  The goal of this project is to predict whether the person survived or the person died.
