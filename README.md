@@ -1,9 +1,8 @@
-# Heart-Disease-Prediction-
-Heart disease prediction using UCI dataset
-using logistics regression for prediction where patients has heart disease or not 
+# Group Members :
+# Dhanashree Laxman Shinde - 50 
+# Shubham Shinde - 51
+# Saili Totre - 56
 
-by
-# shubham khamkar 
-# rohit joshi 
-# sanket mahire 
-
+# Project name :- Titanic Data Analysis
+ The goal of this project is to predict whether the person survived or the person died.
+ A classification model was built using Logistic Regression algorithm that had 90% accuracy. 
